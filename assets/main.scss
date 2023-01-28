@@ -38,9 +38,7 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 
 .header-img {padding: 2px; text-align: center; }
 
-.aws-logo {height: 4em;}
-.azure-logo {height: 6em;}
-.gcp-logo {height: 9em;}
+.csplogo {height: 3.5em;}
 
 /** Figures */
 figure > img { display: block; }
@@ -117,7 +115,7 @@ table.comparison th {
 table.github td { border: 0px }
 table.github { border: 0px }
 
-table td img { padding-left: 2px; padding-right: 2px; width: 18px; height: 18px;}
+table td img { padding-left: 2px; padding-right: 2px; width: 2em; height: 2em;}
 
 /** Site header */
 .site-header { border-top: 5px solid white; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
