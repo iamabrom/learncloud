@@ -29,7 +29,343 @@ services:
             icon: Compute-Engine.png
 
   - category: Compute
-    subcategory: Containers
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: Compute
+    subcategory: Virtual Machines
+    service:
+      - aws:
+          - name: Amazon Elastic Compute Cloud (EC2)
+            link: https://aws.amazon.com/ec2/
+            icon: Arch_Amazon-EC2_64.png
+          - name: Amazon EC2 Spot
+            link: https://aws.amazon.com/ec2/spot/
+            icon: 
+          - name: Amazon EC2 Autoscaling
+            link: https://aws.amazon.com/ec2/autoscaling/
+            icon: 
+          - name: Amazon Lightsail
+            link: https://aws.amazon.com/lightsail/
+            icon: 
+          - name: AWS Batch
+            link: https://aws.amazon.com/batch/
+            icon: 
+      - azure:
+          - name: Azure Virtual Machine
+            link: https://docs.microsoft.com/azure/virtual-machines/
+            icon: Azure Virtual Machine.png
+      - google:
+          - name: Compute Engine
+            link: https://cloud.google.com/compute/
+            icon: Compute-Engine.png
+
+  - category: 
+    subcategory: 
     service:
       - aws:
           - name: 
