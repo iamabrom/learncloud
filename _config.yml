@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cloud Service Providers | AWS, Azure, & GCP Comparison
+title: Cloud Service Provider Comparison
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  AWS, Azure, & GCP make up nearly 70% of market share for cloud infrastructure.
+  This site is to help understand the various services acros these 3 CSPs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://cloud.abrom.dev # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamAbrom
