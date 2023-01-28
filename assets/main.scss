@@ -98,6 +98,8 @@ table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; bord
 
 table tr:nth-child(even) { background-color: #f7f7f7; }
 
+table tr:nth-child(odd) { background-color: #cccccc; }
+
 table th, table td { padding: 2px 2px; }
 
 

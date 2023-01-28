@@ -19,8 +19,8 @@ layout: home
 
 <table id="cloudservices">
   <tr align="center" style="position: sticky; top: 0; z-index: 1;" class="header">
-	<th style="width:7%">Category</th>
-    <th style="width:10%">Service</th>
+	<th style="font-size: 2em; width:7%">Category</th>
+    <th style="font-size: 2em; width:10%">Service</th>
     <th><img  src="img/csp_logos/aws.svg" alt="AWS Logo" class="aws-logo"/></th>
 	<th><img  src="img/csp_logos/azure.svg" alt="Azure Logo" class="azure-logo"/></th>
 	<th><img  src="img/csp_logos/gcp.svg" alt="GCP Logo" class="gcp-logo"/></th>
