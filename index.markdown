@@ -2,9 +2,6 @@
 
 layout: home
 ---
-
-layout: home
----
 <head>
     <meta charset="utf-8">
     <link rel="icon" type="image/x-icon" href="img/favicon/favicon.ico"/>
@@ -18,13 +15,13 @@ layout: home
     <link rel="canonical" href="https://cloud.abrom.dev/">
     <title>Cloud Service Providers | AWS, Azure, & GCP</title>
 </head>
-<table id="comparison">
+<table id="cloudservices">
   <tr align="center" class="header">
 	<th style="width:7%">Category</th>
     <th style="width:10%">Service</th>
-        <th><img  src="img/csp_logos/aws.svg" alt="AWS Logo" class="header-img"/></th>
-		<th><img  src="img/csp_logos/azure.svg" alt="Azure Logo"/></th>
-		<th><img  src="img/csp_logos/gcp.svg" alt="GCP Logo" /></th>
+    <th><img  src="img/csp_logos/aws.svg" alt="AWS Logo" class="csp-logo"/></th>
+	<th><img  src="img/csp_logos/azure.svg" alt="Azure Logo" class="csp-logo"/></th>
+	<th><img  src="img/csp_logos/gcp.svg" alt="GCP Logo" class="csp-logo"/></th>
   </tr>
 	{% for item in site.data.cspdata.services %}
 	<tr>
