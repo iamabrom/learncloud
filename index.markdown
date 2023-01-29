@@ -16,7 +16,7 @@ layout: home
 <!-- ========================= addthis sharing ========================= -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63d59243da3cfde4"></script>
 <!-- ========================= intro info ========================= -->
-<table id="intro" style="margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; background-color: #252833; color:white; font-size: 1.1vw">
+<table id="intro" style="margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; background-color: #252833; color:white; font-size: 1.1vw; border:none;">
 <tr>
     <td style="background-color: #252833; color:white; font-size: 1.1vw">
       <p>Welcome to LearnCloud.today!</p>
