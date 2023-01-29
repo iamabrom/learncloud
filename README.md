@@ -12,7 +12,7 @@ Over time the goal will be to create technical whitepapers on cloud concepts in 
 
 This project and repo was inspired by [CloudComparer](https://github.com/ilyas-it83/CloudComparer). However, I felt to go a different path and and focus on AWS, Azure, & GCP for the time being. I have contributed several PRs to this repo and unfortunately somce of which were closed without merges. This led to creating my own comparision site for cloud services.
 
-## [License](https://github.com/iamabrom/learncloud.today#readme)
+## [License](https://github.com/iamabrom/learncloud.today/blob/main/LICENSE)
 
 
 
