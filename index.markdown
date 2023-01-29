@@ -16,7 +16,7 @@ layout: home
 <!-- ========================= addthis sharing ========================= -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63d59243da3cfde4"></script>
 <!-- ========================= intro info ========================= -->
-<div>
+<div class="introinfo">
 	<p>Welcome to LearnCloud.today!</p>
 	<p>The first iteration of this site is to soley provide visibility and a mapping of services offered across AWS, Azure, & GCP. Soon to follow will be articles, thought leadership posts, technical whitepapers, and even reference architectures.</p>
 	<p>Show support by staring the Github repo and </p>
