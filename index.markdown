@@ -18,14 +18,14 @@ layout: home
 <!-- ========================= intro info ========================= -->
 <table id="intro" style="margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; background-color: #252833; color:white; font-size: 1.1vw">
 <tr>
-    <td>
+    <td style="background-color: #252833; color:white; font-size: 1.1vw">
       <p>Welcome to LearnCloud.today!</p>
       <p>The first iteration of this site is to soley provide visibility and a mapping of services offered across AWS, Azure, & GCP. Soon to follow will be articles, thought leadership posts, technical whitepapers, and even reference architectures.</p>
       <p>Show support by staring the Github repo and </p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="background-color: #252833; color:white; font-size: 1.1vw">
       <a href="https://github.com/iamabrom" target="_blank"> <img style="height:1.5em; width:auto;" src="https://img.shields.io/github/followers/iamabrom?label=Follow%20%40iamAbrom&style=social"></a>
       <a href="https://github.com/iamabrom/learncloud" target="_blank"> <img style="height:1.5em; width:auto;" src="https://img.shields.io/github/stars/iamabrom/learncloud?label=Repo%20Stars&style=social"></a>
       <a href="https://github.com/iamabrom/learncloud/issues" target="_blank"> <img style="height:1.5em; width:auto;" src="https://img.shields.io/github/issues-raw/iamabrom/learncloud"></a><br>
