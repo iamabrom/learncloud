@@ -37,7 +37,9 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 
 .header-img {padding: 2px; text-align: center; }
 
-.csplogo {height: 3em; margin-top: 2px; margin-bottom: 2px;}
+.awslogo {height: 3em; margin-top: 5px; margin-bottom: 2px;}
+.azurelogo {height: 2.5em; margin-top: 2px; margin-bottom: 2px;}
+.gcplogo {height: 2.5em; margin-top: 2px; margin-bottom: 2px;}
 
 /** Figures */
 figure > img { display: block; }

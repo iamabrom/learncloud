@@ -21,9 +21,9 @@ layout: home
   <tr align="center" style="position: sticky; top: 0; z-index: 1;" class="header">
 	<th style="font-size: 1.60vw; width:10%">Category</th>
     <th style="font-size: 1.60vw; width:10%">Service</th>
-    <th><img  src="img/csp_logos/aws.svg" alt="AWS Logo" class="csplogo"/></th>
-	<th><img  src="img/csp_logos/azure.svg" alt="Azure Logo" class="csplogo"/></th>
-	<th><img  src="img/csp_logos/gcp.svg" alt="GCP Logo" class="csplogo"/></th>
+    <th><img  src="img/csp_logos/aws.svg" alt="AWS Logo" class="awslogo"/></th>
+	<th><img  src="img/csp_logos/azure.svg" alt="Azure Logo" class="azurelogo"/></th>
+	<th><img  src="img/csp_logos/gcp.svg" alt="GCP Logo" class="gcplogo"/></th>
   </tr>
 	{% for item in site.data.cspdata.services %}
 	<tr>
