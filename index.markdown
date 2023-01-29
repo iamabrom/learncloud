@@ -7,13 +7,11 @@ layout: home
     <link rel="icon" type="image/x-icon" href="img/favicon/favicon.ico"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="follow,index">
-    <META NAME="Title" CONTENT="Cloud ">
     <META NAME="Keywords" CONTENT="aws, azure, gcp, csp, cloud, cloud service provider, cloud computing, cloud services">
     <META NAME="Description" CONTENT="Mapping of services offered by Public Cloud Service Providers">
     <META NAME="Author" CONTENT="Abrom Douglas III">
-    <link rel="canonical" href="https://cloud.abrom.dev/">
-    <title>Cloud Service Providers | AWS, Azure, & GCP</title>
+    <link rel="canonical" href="https://learncloud.today/">
+    <title>LearnCloud.today</title>
 </head>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63d59243da3cfde4"></script>
 
