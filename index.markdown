@@ -29,6 +29,7 @@ layout: home
     <a href="https://twitter.com/iamAbrom" target="_blank"> <img style="height:1.3em; width:auto; margin-right:10px" src="https://img.shields.io/twitter/follow/iamabrom?style=social"></a>
     <a href="https://www.buymeacoffee.com/abrom" target="_blank"> <img style="height:1.3em; width:auto; margin-right:10px" src="https://badgen.net/badge/icon/Buy me a coffee/yellow?icon=buymeacoffee&label"></a>
 </div>
+<hr style="border-top: 1px dashed grey; margin-top:8px; margin-bottom:10px">
 <!-- ========================= mapping table ========================= -->
 <table id="cloudservices">
   <tr align="center" style="position: sticky; top: 0; z-index: 1;" class="header">
