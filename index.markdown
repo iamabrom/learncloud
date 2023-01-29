@@ -17,18 +17,23 @@ layout: home
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63d59243da3cfde4"></script>
 <!-- ========================= intro info ========================= -->
 <table id="intro" style="margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse;">
-	<th style="font-size: 1vw; width:80%">
-	"Text here"
-	</th>
-	<th style="width:20%">
-		<a href="https://github.com/iamabrom" target="_blank"> <img src="https://badgen.net/badge/icon/Follow @iamAbrom?icon=github&label&scale=1.2"></a><br>
-    	<a href="https://github.com/iamabrom/learncloud.today" target="_blank"> <img src="https://badgen.net/github/stars/iamabrom/learncloud.today?scale=1.2"></a><br>
-    	<a href="https://github.com/iamabrom/learncloud.today" target="_blank"> <img src="https://badgen.net/github/issues/iamabrom/learncloud.today?scale=1.2"></a><br>
-		<hr style="height:2px; border-width:0; color:gray; background-color:gray;">
-    	<a href="https://authn.cc/@abrom" target="_blank"> <img src="https://badgen.net/badge/icon/@abrom@authn.cc/purple?icon=mastodon&label&scale=1.2"></a><br>
-    	<a href="https://twitter.com/iamAbrom" target="_blank"> <img src="https://badgen.net/badge/icon/@iamAbrom?icon=twitter&label&scale=1.2"></a><br>
-    	<a href="https://www.buymeacoffee.com/abrom" target="_blank"> <img src="https://badgen.net/badge/icon/buymeacoffee/yellow?icon=buymeacoffee&label&scale=1.2"></a>
-	</th>
+<tr>
+    <td>
+      <p>Welcome to LearnCloud.today!</p>
+      <p>The first iteration of this site is to soley provide visibility and a mapping of services offered across AWS, Azure, & GCP. Soon to follow will be articles, thought leadership posts, technical whitepapers, and even reference architectures.</p>
+      <p>Show support by staring the Github repo and </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/iamabrom" target="_blank"> <img style="height:1.5vw;" src="https://img.shields.io/github/followers/iamabrom?label=Follow%20%40iamAbrom&style=social"></a>
+      <a href="https://github.com/iamabrom/learncloud" target="_blank"> <img style="height:1.5vw;" src="https://img.shields.io/github/stars/iamabrom/learncloud?label=Repo%20Stars&style=social"></a>
+      <a href="https://github.com/iamabrom/learncloud/issues" target="_blank"> <img style="height:1.5vw;" src="https://img.shields.io/github/issues-raw/iamabrom/learncloud"></a><br>
+      <a href="https://authn.cc/@abrom" target="_blank"> <img style="height:1.2vw;" src="https://img.shields.io/mastodon/follow/109379946434563076?domain=https%3A%2F%2Fauthn.cc&style=social"></a>
+      <a href="https://twitter.com/iamAbrom" target="_blank"> <img style="height:1.2vw;" src="https://img.shields.io/twitter/follow/iamabrom?style=social"></a>
+      <a href="https://www.buymeacoffee.com/abrom" target="_blank"> <img style="height:1.2vw;" src="https://badgen.net/badge/icon/Buy me a coffee/yellow?icon=buymeacoffee&label"></a>
+    </td>
+  </tr>
 </table>
 <!-- ========================= mapping table ========================= -->
 <table id="cloudservices">
