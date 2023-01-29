@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cloud Service Provider Comparison
+title: Cloud Service Mapping
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   AWS, Azure, & GCP make up nearly 70% of market share for cloud infrastructure.
   This site is to help understand the various services acros these 3 CSPs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://cloud.abrom.dev # the base hostname & protocol for your site, e.g. http://example.com
+url: https://learncloud.today # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamAbrom
 github_username:  iamabrom
 

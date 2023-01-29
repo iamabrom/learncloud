@@ -5,7 +5,6 @@
 $content-width: 100%;
 @import "minima";
 
-
 table {
     table-layout: fixed;
   }
@@ -96,14 +95,14 @@ table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; bord
 
 table tr:nth-child(even) { background-color: #f7f7f7; }
 
-table tr:nth-child(odd) { background-color: #cccccc; }
+table tr:nth-child(odd) { background-color: #f0ffff; }
 
 table th, table td { padding: 2px 2px; }
 
 
 // table th img { padding: 0%; }
 
-table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
+table th { background-color: #cccccc; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
 
 table.comparison td { border: 1px solid #e8e8e8; }
 table.comparison th {
